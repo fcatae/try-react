@@ -1,0 +1,20 @@
+{
+  "name": "try-react",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Fabricio Catae <fabricio.catae@microsoft.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.6",
+    "mustache.js": "mustache#~2.2.1"
+  }
+}
